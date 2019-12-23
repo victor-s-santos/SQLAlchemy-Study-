@@ -1,7 +1,2 @@
-.venv
+/backup
 .ipynb_checkpoints
-EXERCISE4.ipynb
-.env
-Enviar/
-backup/
-Exercise3 (cópia).ipynb
